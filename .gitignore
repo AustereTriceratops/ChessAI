@@ -1,0 +1,7 @@
+dataset/*
+test_files/*
+__pycache__/
+.vscode/
+
+scratch.ipynb
+visualization.ipynb
